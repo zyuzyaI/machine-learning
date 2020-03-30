@@ -1,4 +1,6 @@
-# Fire and smoke detection with Keras and Deep Learning (sourse)[https://www.pyimagesearch.com/2019/11/18/fire-and-smoke-detection-with-keras-and-deep-learning/]
+# Fire and smoke detection with Keras and Deep Learning 
+
+[sourse](https://www.pyimagesearch.com/2019/11/18/fire-and-smoke-detection-with-keras-and-deep-learning/)
 
 The dataset we’ll be using for fire and smoke examples was curated by PyImageSearch reader, Gautam Kumar.
 
