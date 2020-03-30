@@ -17,3 +17,7 @@ The dataset we’ll be using for Non-fire examples is called 8-scenes as it cont
 * Tall buildings
 * Highways
 
+[Download the fire/smoke dataset using this link.](https://drive.google.com/file/d/11KBgD_W2yOxhJnUMiyBkBzXDPXhVmvCt/view?usp=sharing]
+
+[Download the 8-scenes dataset using this link.](https://people.csail.mit.edu/torralba/code/spatialenvelope/spatial_envelope_256x256_static_8outdoorcategories.zip)
+
