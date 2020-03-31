@@ -119,7 +119,7 @@ H = model.fit_generator(
     steps_per_epoch=train_x.shape[0] // config.BATCH_SIZE, 
     epochs=config.NUM_EPOCHS,
     class_weight=classWeight,
-    verboae=1
+    verbose=1
 )
 
 # evaluate the network and show a classification report
