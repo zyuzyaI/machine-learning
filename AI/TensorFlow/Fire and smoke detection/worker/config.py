@@ -14,7 +14,7 @@ TEST_SPLIT = 0.25
 # define the initial learning rate, batch size, and number of epochs
 INIT_LR = 1e-2
 BATCH_SIZE = 64
-NUM_EPOCHS = 50
+NUM_EPOCHS = 7
 
 # set the path to the serealized model after training
 MODEL_PATH = os.path.sep.join(["output", "fire_detection.model"])
