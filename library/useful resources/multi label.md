@@ -7,7 +7,7 @@
 
 * [Keras: Multiple outputs and multiple losses](https://www.pyimagesearch.com/2018/06/04/keras-multiple-outputs-and-multiple-losses/)
 
-* Multi-label classification with Keras(https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras/)
+* [Multi-label classification with Keras](https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras/)
 	
 
 
